@@ -16,4 +16,4 @@ jobs:
         uses: TheDanniCraft/activity-log@v1
         with:
           GITHUB_USERNAME: "RongjayWu"
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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

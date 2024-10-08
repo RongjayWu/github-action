@@ -1,0 +1,19 @@
+
+
+name: Update GitHub Acticity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-aticity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update GitHub Acticity
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "RongjayWu"
+          GITHUB_TOKEN: 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

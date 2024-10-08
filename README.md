@@ -5,5 +5,3 @@
 <!--END_SECTION:activity-->
 
 ### About Me
-<!-- MYLINKS:START -->
-<!-- MYLINKS:END -->
